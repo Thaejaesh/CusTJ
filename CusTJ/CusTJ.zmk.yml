@@ -1,0 +1,12 @@
+file_format: "1"
+id: CusTJ
+name: CusTJ
+type: shield
+url: https://github.com/foostan/crkbd/
+requires: [pro_micro]
+features:
+  - keys
+  - backlight
+siblings:
+  - CusTJ_left
+  - CusTJ_right
