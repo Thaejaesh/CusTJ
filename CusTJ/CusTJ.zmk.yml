@@ -6,7 +6,7 @@ url: https://github.com/foostan/crkbd/
 requires: [pro_micro]
 features:
   - keys
-  - backlight
+  - underglow
 siblings:
   - CusTJ_left
   - CusTJ_right
